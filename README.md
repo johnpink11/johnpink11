@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @johnpink11
-- 🌱 I’m currently learning C/C++.
+- 🌱 I’m currently learning Statistic, PDE and Functional Analysis.
 - 💞️ I'm majoring in  mathematic in SCUT.
 - 🚀 I'm interesting in machine learning and AI.
 - 📫 How to reach me?
